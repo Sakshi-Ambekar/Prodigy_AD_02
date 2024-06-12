@@ -22,6 +22,7 @@ cd Prodigy_AD_02
 # Usage
 1. Run the application:
 - Start the development server.
+  </br>
   #Command to start the development server
 
 2. Access the application in your browser at http://localhost:port.
